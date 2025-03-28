@@ -2,5 +2,7 @@ config {
     type: "table"
 }
 
-SELECT current_date() as dt_today,
-  2 as count , 'today date' name
+SELECT
+  CURRENT_DATE() AS dt_today,
+  2 AS count,
+  'today date is' name
