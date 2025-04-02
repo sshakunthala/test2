@@ -17,3 +17,6 @@ UNION ALL
 SELECT
   "bananas" AS fruit,
   0 AS count
+SELECT
+  "mangos" AS fruit,
+  2 AS count
