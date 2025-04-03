@@ -1,5 +1,5 @@
 defaultProject: erudite-mote-455604-d5
-defaultLocation: europe-west1
+defaultLocation: EU
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
