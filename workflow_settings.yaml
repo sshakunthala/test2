@@ -1,5 +1,5 @@
-defaultProject: pro-test22
-defaultLocation: europe-west4
+defaultProject: modern-photon-454908-q3
+defaultLocation: US
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
