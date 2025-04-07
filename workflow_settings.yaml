@@ -1,5 +1,5 @@
-defaultProject: pro-test22
-defaultLocation: europe-west4
+defaultProject: wired-apex-452809-j2
+defaultLocation: us-central1
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
