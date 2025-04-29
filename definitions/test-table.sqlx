@@ -6,4 +6,3 @@ SELECT
   CURRENT_DATE() AS dt_today,
   2 AS count,
   'today date is' name
-  WHERE ${dataform.projectConfig.vars.cod_impianto} = "BF"
