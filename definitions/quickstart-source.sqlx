@@ -22,4 +22,6 @@ SELECT
   "mangos" AS fruit,
   2 AS count
 UNION ALL 
-SELECT ${dataform.projectConfig.vars.cod_impianto} AS QWERTY 
+SELECT ${dataform.projectConfig.vars.cod_impianto} AS fruit,
+2 AS count
+
