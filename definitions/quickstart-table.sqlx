@@ -5,6 +5,7 @@ config {
 SELECT
   fruit,
   SUM(count) AS count
+  WHERE ${dataform.projectConfig.vars.cod_impianto} = "BF"
 FROM
   ${ref("quickstart-source")}
 GROUP BY

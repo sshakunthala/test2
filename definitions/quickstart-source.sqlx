@@ -4,7 +4,7 @@ config {
 
 SELECT
   "apples" AS fruit,
-  2 AS count
+  2 AS count WHERE ${dataform.projectConfig.vars.cod_impianto} = "BF"
 UNION ALL
 SELECT
   "oranges" AS fruit,
@@ -21,3 +21,5 @@ UNION ALL
 SELECT
   "mangos" AS fruit,
   2 AS count
+UNION ALL 
+SELECT ${dataform.projectConfig.vars.cod_impianto} AS QWERTY 
