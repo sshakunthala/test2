@@ -4,6 +4,6 @@
   "defaultDatabase": "wired-apex-452809-j2",
   "defaultLocation": "US",
   "vars": {
-     "cod_impianto": "'BF'"
+     "cod_impianto": "/BF"
    }
 }
